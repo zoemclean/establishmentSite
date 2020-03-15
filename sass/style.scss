@@ -1,0 +1,22 @@
+@import '_variables';
+@import '_grid';
+@import '_nav';
+
+
+.homeImg {
+    background-image: url("../images/purpleBar.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.bgSize {
+    width: 100vw;
+    height: 100vh;
+}
+
+.overflow {
+    overflow: hidden;
+}

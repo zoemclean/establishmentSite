@@ -1,0 +1,93 @@
+/* line 1, ../sass/_nav.scss */
+nav {
+  color: grey;
+}
+/* line 3, ../sass/_nav.scss */
+nav ul {
+  list-style: none;
+}
+/* line 5, ../sass/_nav.scss */
+nav ul li {
+  float: left;
+}
+
+/* line 11, ../sass/_nav.scss */
+.navBar {
+  padding: 10px;
+  background-color: #95a5a6;
+  color: #ecf0f1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+/* line 25, ../sass/_nav.scss */
+.listItem {
+  padding: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+  /* line 32, ../sass/_nav.scss */
+  .navBar {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    position: fixed;
+    width: 100%;
+  }
+
+  /* line 40, ../sass/_nav.scss */
+  .navList {
+    display: block !important;
+  }
+
+  /* line 44, ../sass/_nav.scss */
+  .listItem {
+    float: left;
+    padding: 0 20px;
+  }
+
+  /* line 49, ../sass/_nav.scss */
+  .navList::after {
+    clear: both;
+    content: '';
+    display: block;
+  }
+}
+/* line 6, ../sass/style.scss */
+.homeImg {
+  background-image: url("../images/purpleBar.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+}
+
+/* line 15, ../sass/style.scss */
+.bgSize {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* line 20, ../sass/style.scss */
+.overflow {
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */
