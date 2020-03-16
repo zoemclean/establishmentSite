@@ -2,14 +2,19 @@
 @import '_grid';
 @import '_nav';
 
+* {
+  box-sizing: border-box;
+}
 
 .homeImg {
-    background-image: url("../images/purpleBar.jpg");
+    background-image: url("../images/homeImg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
+    // width: 100%;
+    // height: auto;
+    top: 0;
+    left: 0;
 }
 
 .bgSize {

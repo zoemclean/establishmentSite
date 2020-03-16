@@ -8,12 +8,13 @@ nav {
     }
 }
 
+
 .navBar{
     padding: 10px;
     background-color: $greyColor;
     color: $whiteColor;
     display: flex;
-    // flex-direction: column;
+    flex-direction: column;
     position: fixed;
     justify-content: center;
     top: 0;
