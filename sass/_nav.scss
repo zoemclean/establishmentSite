@@ -11,10 +11,10 @@ nav {
 
 .navBar{
     padding: 10px;
-    background-color: $greyColor;
+    background-color: rgba($greyColor, 0.5);
     color: $whiteColor;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     position: fixed;
     justify-content: center;
     top: 0;
@@ -44,7 +44,9 @@ nav {
 
     .listItem{
         float: left;
-        padding: 0 20px;
+        padding: 10px;
+        top: 0;
+        left: 0;
     }
 
     .navList::after{

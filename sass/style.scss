@@ -3,7 +3,10 @@
 @import '_nav';
 
 * {
-  box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 .homeImg {
@@ -17,11 +20,59 @@
     left: 0;
 }
 
-.bgSize {
+.homeImgSize {
     width: 100vw;
     height: 100vh;
 }
 
 .overflow {
     overflow: hidden;
+}
+
+.flexArrow {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.downArrow {
+    color: $whiteColor;
+    font-size: 4em;
+}
+
+.backgroundColor {
+    background-color: $backgroundColor;
+}
+
+.mainHeading {
+    font-family: $headingFont;
+    font-size: 36px;
+    text-align: center;
+    font-weight: normal;
+    color: $whiteColor;
+    padding-top: 15px;
+}
+
+.pText {
+    font-family: $paragraphFont;
+    font-size: 17px;
+    text-align: left;
+    font-weight: normal;
+    color: $whiteColor;
+    padding: 12px 22px;
+}
+
+.subHeading {
+    font-family: $paragraphFont;
+    font-size: 20px;
+    text-align: left;
+    font-weight: normal;
+    color: $whiteColor;
+    padding: 10px 22px;
+}
+
+.plusButton {
+    color: $whiteColor;
+    font-size: 20px;
+    float: right;
 }

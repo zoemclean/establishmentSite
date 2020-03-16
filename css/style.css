@@ -1,28 +1,28 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000031}}
+/* line 1, ../sass/_nav.scss */
 nav {
   color: grey;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000033}}
+/* line 3, ../sass/_nav.scss */
 nav ul {
   list-style: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000035}}
+/* line 5, ../sass/_nav.scss */
 nav ul li {
   float: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000312}}
+/* line 12, ../sass/_nav.scss */
 .navBar {
   padding: 10px;
-  background-color: #95a5a6;
+  background-color: rgba(149, 165, 166, 0.5);
   color: #ecf0f1;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: row;
+          flex-direction: row;
   position: fixed;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -32,14 +32,14 @@ nav ul li {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000326}}
+/* line 26, ../sass/_nav.scss */
 .listItem {
   padding: 10px;
   font-family: 'Montserrat', sans-serif;
 }
 
 @media screen and (min-width: 600px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000333}}
+  /* line 33, ../sass/_nav.scss */
   .navBar {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -55,31 +55,35 @@ nav ul li {
     width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000341}}
+  /* line 41, ../sass/_nav.scss */
   .navList {
     display: block !important;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000345}}
+  /* line 45, ../sass/_nav.scss */
   .listItem {
     float: left;
-    padding: 0 20px;
+    padding: 10px;
+    top: 0;
+    left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000350}}
+  /* line 52, ../sass/_nav.scss */
   .navList::after {
     clear: both;
     content: '';
     display: block;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\000035}}
+/* line 5, ../sass/style.scss */
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\000039}}
+/* line 12, ../sass/style.scss */
 .homeImg {
   background-image: url("../images/homeImg.jpg");
   background-position: center;
@@ -89,15 +93,76 @@ nav ul li {
   left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000320}}
-.bgSize {
+/* line 23, ../sass/style.scss */
+.homeImgSize {
   width: 100vw;
   height: 100vh;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000325}}
+/* line 28, ../sass/style.scss */
 .overflow {
   overflow: hidden;
+}
+
+/* line 32, ../sass/style.scss */
+.flexArrow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+/* line 38, ../sass/style.scss */
+.downArrow {
+  color: #ecf0f1;
+  font-size: 4em;
+}
+
+/* line 43, ../sass/style.scss */
+.backgroundColor {
+  background-color: #222222;
+}
+
+/* line 47, ../sass/style.scss */
+.mainHeading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  font-weight: normal;
+  color: #ecf0f1;
+  padding-top: 15px;
+}
+
+/* line 56, ../sass/style.scss */
+.pText {
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  text-align: left;
+  font-weight: normal;
+  color: #ecf0f1;
+  padding: 12px 22px;
+}
+
+/* line 65, ../sass/style.scss */
+.subHeading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  text-align: left;
+  font-weight: normal;
+  color: #ecf0f1;
+  padding: 10px 22px;
+}
+
+/* line 74, ../sass/style.scss */
+.plusButton {
+  color: #ecf0f1;
+  font-size: 20px;
+  float: right;
 }
 
 /*# sourceMappingURL=style.css.map */
