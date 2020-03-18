@@ -81,8 +81,18 @@ body {
 
 .plusButton {
     color: $whiteColor;
-    font-size: 20px;
-    float: right;
+    font-size: 30px;
+    padding: 0px 22px;
+}
+
+.plusButtonFlex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.weeklyEventBox {
+    width: 100%;
 }
 
 .floatLeft{
@@ -96,6 +106,37 @@ body {
 .boysInBarImg {
     display: none;
 }
+
+.eventImgs {
+    height: 270px;
+    width: 350px;
+    display: none;
+}
+
+.eventInfo {
+    display: none;
+}
+
+
+
+@media screen and (min-width: $mediumScreen) {
+    .eventInfo {
+        display: block !important;
+    }
+    .eventImgs {
+        display: block !important;
+        width: 320px;
+        height: 320px;
+        float: right;
+    }
+
+    .plusButton {
+        display: none;
+    }
+}
+
+
+
 
 
 

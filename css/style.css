@@ -1,4 +1,4 @@
-/* line 1, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\000031}}
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -6,97 +6,97 @@
   margin: 0;
 }
 
-/* line 20, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000320}}
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
 
-/* line 13, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000313}}
 .row::after {
   clear: both;
   display: block;
   content: '';
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col1 {
   width: 8.3333333333%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col2 {
   width: 16.6666666667%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col3 {
   width: 25%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col4 {
   width: 33.3333333333%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col5 {
   width: 41.6666666667%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col6 {
   width: 50%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col7 {
   width: 58.3333333333%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col8 {
   width: 66.6666666667%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col9 {
   width: 75%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col10 {
   width: 83.3333333333%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col11 {
   width: 91.6666666667%;
   float: left;
   padding: 10px;
 }
 
-/* line 30, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000330}}
 .col12 {
   width: 100%;
   float: left;
@@ -104,73 +104,73 @@
 }
 
 @media screen and (min-width: 600px) {
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM1 {
     width: 8.3333333333%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM2 {
     width: 16.6666666667%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM3 {
     width: 25%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM4 {
     width: 33.3333333333%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM5 {
     width: 41.6666666667%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM6 {
     width: 50%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM7 {
     width: 58.3333333333%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM8 {
     width: 66.6666666667%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM9 {
     width: 75%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM10 {
     width: 83.3333333333%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM11 {
     width: 91.6666666667%;
   }
 
-  /* line 38, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000338}}
   .colM12 {
     width: 100%;
   }
 }
 @media screen and (min-width: 1000px) {
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL1 {
     width: 8.3333333333%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -184,12 +184,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL2 {
     width: 16.6666666667%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -203,12 +203,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL3 {
     width: 25%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -222,12 +222,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL4 {
     width: 33.3333333333%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -241,12 +241,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL5 {
     width: 41.6666666667%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -260,12 +260,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL6 {
     width: 50%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -279,12 +279,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL7 {
     width: 58.3333333333%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -298,12 +298,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL8 {
     width: 66.6666666667%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -317,12 +317,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL9 {
     width: 75%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -336,12 +336,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL10 {
     width: 83.3333333333%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -355,12 +355,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL11 {
     width: 91.6666666667%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -374,12 +374,12 @@
     width: 100%;
   }
 
-  /* line 46, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000346}}
   .colL12 {
     width: 100%;
   }
 
-  /* line 49, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000349}}
   .containerL {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -393,20 +393,20 @@
     width: 100%;
   }
 }
-/* line 1, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000031}}
 nav {
   color: grey;
 }
-/* line 3, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000033}}
 nav ul {
   list-style: none;
 }
-/* line 5, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\000035}}
 nav ul li {
   float: left;
 }
 
-/* line 12, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000312}}
 .navBar {
   padding: 10px;
   background-color: rgba(149, 165, 166, 0.5);
@@ -427,14 +427,14 @@ nav ul li {
   width: 100%;
 }
 
-/* line 26, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000326}}
 .listItem {
   padding: 10px;
   font-family: 'Montserrat', sans-serif;
 }
 
 @media screen and (min-width: 600px) {
-  /* line 33, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000333}}
   .navBar {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -450,12 +450,12 @@ nav ul li {
     width: 100%;
   }
 
-  /* line 41, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000341}}
   .navList {
     display: block !important;
   }
 
-  /* line 45, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000345}}
   .listItem {
     float: left;
     padding: 10px;
@@ -463,21 +463,21 @@ nav ul li {
     left: 0;
   }
 
-  /* line 52, ../sass/_nav.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_nav\.scss}line{font-family:\0000352}}
   .navList::after {
     clear: both;
     content: '';
     display: block;
   }
 }
-/* line 12, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000312}}
 .containerFull {
   max-width: 1100px;
   margin: 0 auto;
   min-height: 50px;
 }
 
-/* line 18, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000318}}
 .homeImg {
   background-image: url("../images/homeImg.jpg");
   background-position: center;
@@ -487,29 +487,29 @@ nav ul li {
   left: 0;
 }
 
-/* line 29, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000329}}
 .homeImgSize {
   width: 100%;
   height: 100vh;
 }
 
-/* line 34, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000334}}
 body {
   background-color: #222222;
 }
 
-/* line 38, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000338}}
 .overflow {
   overflow: hidden;
 }
-/* line 13, ../sass/_grid.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/_grid\.scss}line{font-family:\0000313}}
 .overflow::after {
   clear: both;
   display: block;
   content: '';
 }
 
-/* line 43, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000343}}
 .flexArrow {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -522,13 +522,13 @@ body {
           justify-content: center;
 }
 
-/* line 49, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000349}}
 .downArrow {
   color: #ecf0f1;
   font-size: 4em;
 }
 
-/* line 55, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000355}}
 .mainHeading {
   font-family: "Montserrat", sans-serif;
   font-size: 36px;
@@ -538,7 +538,7 @@ body {
   padding: 15px 12px 0px;
 }
 
-/* line 64, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000364}}
 .pText {
   font-family: "Montserrat", sans-serif;
   font-size: 17px;
@@ -548,7 +548,7 @@ body {
   padding: 5px 22px;
 }
 
-/* line 73, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000373}}
 .subHeading {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
@@ -558,36 +558,85 @@ body {
   padding: 10px 22px;
 }
 
-/* line 82, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000382}}
 .plusButton {
   color: #ecf0f1;
-  font-size: 20px;
-  float: right;
+  font-size: 30px;
+  padding: 0px 22px;
 }
 
-/* line 88, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000388}}
+.plusButtonFlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000394}}
+.weeklyEventBox {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\0000398}}
 .floatLeft {
   float: left;
 }
 
-/* line 92, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003102}}
 .floatRight {
   float: right;
 }
 
-/* line 96, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003106}}
 .boysInBarImg {
   display: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003110}}
+.eventImgs {
+  height: 270px;
+  width: 350px;
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003116}}
+.eventInfo {
+  display: none;
+}
+
+@media screen and (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003123}}
+  .eventInfo {
+    display: block !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003126}}
+  .eventImgs {
+    display: block !important;
+    width: 320px;
+    height: 320px;
+    float: right;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003133}}
+  .plusButton {
+    display: none;
+  }
+}
 @media screen and (min-width: 1000px) {
-  /* line 103, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003144}}
   .borderBox {
     border: 1px solid #ecf0f1;
     margin-bottom: 10px;
   }
 
-  /* line 108, ../sass/style.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zoe\/Desktop\/Yoobee2020\/termOne\/establishmentSite\/sass\/style\.scss}line{font-family:\00003149}}
   .boysInBarImg {
     display: block !important;
   }
